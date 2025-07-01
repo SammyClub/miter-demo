@@ -1,4 +1,4 @@
-- import `import "@sammy-labs/success/dist/success.css";`
+- import `import "@sammy-labs/success/success.css";`
 
 Sammy supports several built-in themes as seen in your CSS file:
 
